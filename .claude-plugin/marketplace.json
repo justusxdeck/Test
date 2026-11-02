@@ -1,0 +1,11 @@
+{
+  "name": "justusxdeck-mods",
+  "owner": { "name": "justusxdeck" },
+  "plugins": [
+    {
+      "name": "limits",
+      "source": "./mods/limits",
+      "description": "Panel mit Session-Limit, Wochenlimit, Kontext und Kosten"
+    }
+  ]
+}
